@@ -1,7 +1,7 @@
 import random
 import string
 import streamlit as st
-from typing import List, Optional
+# from typing import List, Optional
 
 # --- LOGIC LAYER (OOP) ---
 
